@@ -56,7 +56,7 @@ I work as a software engineer during the day. At night, I switch into my creator
 
 
 ---
-- WEB:
+ㅡ WEB:
 * Asp.Net, C#, PHP(Laravel, CI, Yii), Nodejs, Java & Kotlin Spring Boot, Python (Django, Flask)
 * Angular/NGRx, React JS/Redux, Vue JS/Vuex, Metoer JS, Svelte JS, jQuery, Bootstrap, Material UI
 * MSSQL, PostgreSQL, MySQL, MongoDB, SQLite, Google Firebase, AWS (DynamoDB, RDS).
@@ -66,7 +66,7 @@ I work as a software engineer during the day. At night, I switch into my creator
 * AWS, DigitalOcean, Google Cloud
 * Web socket, Mqtt, Bluetooth, Web scraping (Data entry)
 * Chat-GPT, AI Machine Learning
-- Mobile:
+ㅡ Mobile:
 * iOS: Swift, XCode, Swift-UI
 * Android: Java, Kotlin, Android Studio
 * Cross Mobile: React-Native, Flutter, Ionic, .Net MAUI
