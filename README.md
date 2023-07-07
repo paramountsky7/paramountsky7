@@ -57,8 +57,8 @@ I work as a software engineer during the day. At night, I switch into my creator
 
 ---
 ㅡ WEB:
-* Asp.Net, C#, PHP(Laravel, CI, Yii), Nodejs, Java & Kotlin Spring Boot, Python (Django, Flask)
-* Angular/NGRx, React JS/Redux, Vue JS/Vuex, Metoer JS, Svelte JS, jQuery, Bootstrap, Material UI
+* Asp.Net, C#, PHP(Laravel, Symfony, CI, Yii), Nodejs, Java & Kotlin Spring Boot, Python (Django, Flask)
+* Angular/NGRx, React JS/Redux, Vue JS/Vuex, Svelte JS, jQuery, Bootstrap, Material UI
 * MSSQL, PostgreSQL, MySQL, MongoDB, SQLite, Google Firestore, AWS (DynamoDB, RDS).
 * JavaScript, es5/es6, typescript, JSX
 * GitHub, SVN, Gitlab, BitBucket, Trello, Jira
