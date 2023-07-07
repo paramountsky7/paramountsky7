@@ -66,6 +66,7 @@ I work as a software engineer during the day. At night, I switch into my creator
 * AWS, DigitalOcean, Google Cloud
 * Web socket, Mqtt, Bluetooth, Web scraping (Data entry)
 * Chat-GPT, AI Machine Learning
+  
 ㅡ Mobile:
 * iOS: Swift, XCode, Swift-UI
 * Android: Java, Kotlin, Android Studio
