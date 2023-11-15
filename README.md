@@ -6,20 +6,10 @@ I work as a software engineer during the day. At night, I switch into my creator
 
 ### ⚡️ A quick introduction
 
-- 🌱 I’m currently learning Spring Boot. 
+- 🌱 I’m currently learning AI. 
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I'm an astrophysics geek, amatuer singer, and history lover. I also write pieces of poetry, blogs, and play badminton!
 - 😝 Fun-Fact: I suffer from [hylophobia](https://phobia.wikia.org/wiki/Hylophobia).
-
----
-
-### 🤝🏻 Connect, Follow, Subscribe
-
----
-
-### 🎧 Spotify Playing
-
-[![Spotify](https://novatorem.imperial-lord.vercel.app/api/spotify)](https://open.spotify.com/user/imperial-lord)
 
 ---
 
